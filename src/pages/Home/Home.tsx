@@ -34,7 +34,7 @@ function Home() {
     greeting: "Olá! Meu nome é",
     title: "Giovana Carvalho",
     description:
-      "Desenvolvimento de profissionais especializados no mundo dos dados e Power BI",
+      "Desenvolvimento de profissionais especializados no mundo dos dados",
     src: profileImg,
   };
 
