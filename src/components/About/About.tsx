@@ -37,9 +37,8 @@ function About() {
     experienceAge: "2+",
     experience:
       "Unindo meu background em Engenharia de Controle e Automação (FMU) e Eletroeletrônica (SENAI), utilizo a inteligência de dados para transformar problemas complexos em soluções visuais e estratégicas.
-
-Tech Stack: SQL, MySQL, Python, N8N, Power BI, Tabular Editor, Bravo, Claude…
-Foco: Modelagem de dados, criação de dashboards, automação de relatórios e melhoria contínua de processos de negócio.",
+      Tech Stack: SQL, MySQL, Python, N8N, Power BI, Tabular Editor, Bravo, Claude…
+      Foco: Modelagem de dados, criação de dashboards, automação de relatórios e melhoria contínua de processos de negócio.",
     title_skills: "| Principais habilidades:",
     title_contact: "| Como você pode entrar em contato comigo:",
   };
